@@ -22,3 +22,9 @@ const getAController = (req: Request, res: Response) => {
 app.get('/', getAController);
 
 export default app;
+
+/* number-of-word
+number-of-character
+number-of-sentence
+number-of-paragraphs
+words-in-paragraph */

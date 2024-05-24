@@ -1,5 +1,5 @@
 {
-  "name": "counter-app-server",
+  "name": "text-analyzer-server",
   "version": "1.0.0",
   "description": "Create an API to return the number of words, number of characters, number of sentences, number of paragraphs, longest words in paragraphs,",
   "main": "./dist/server.js",

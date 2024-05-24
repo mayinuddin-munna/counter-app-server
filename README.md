@@ -1,1 +1,1 @@
-# counter-app-server
+# text-analyzer-server
